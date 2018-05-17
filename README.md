@@ -1,1 +1,1 @@
-# core_all
+# cor
